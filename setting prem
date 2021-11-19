@@ -5,7 +5,7 @@ local Section = Tab:NewSection("VERSION AND CHANGE-LOGS")
 Section:NewButton("CLICK HERE FOR DISCORD", "คลิกที่นี้เพื่อรับลิ้งดิสคอสเพื่อเข้าดิสคอส", function()
     setclipboard("https://discord.gg/c2h7Tfzz8v")
 end)
-local Tab = Window:NewTab("PREMIUM SCRIPT")
+local Tab = Window:NewTab("เย็ดหี SCRIPT")
 local Section = Tab:NewSection("PREMIUM SCRIPT!!")
 Section:NewButton("PRISON LIFE", "คลิกที่นี้เพื่อใช้งานสคริปแอดมินprison life แบบpremium!", function()
     _THXIGDyeNCvKf5mN, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
@@ -15,7 +15,7 @@ Section:NewButton("PRISON LIFE", "คลิกที่นี้เพื่อ�
 
 
 end)
-local Tab = Window:NewTab("เช็ควันหมดอายุ")
+local Tab = Window:NewTab("เadddaddad")
 local Section = Tab:NewSection("PREMIUM คุณจะหมดอายุในวันที่18/12/2564")
 local Section = Tab:NewSection("PREMIUM คุณจะหมดอายุในวันที่18/12/2564")
 local Section = Tab:NewSection("PREMIUM คุณจะหมดอายุในวันที่18/12/2564")
