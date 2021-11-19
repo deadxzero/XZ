@@ -27,3 +27,4 @@ local Section = Tab:NewSection("SET YOUR SETTING")
 Section:NewKeybind("SETTING KEYBIND", "คลิกเพื่อตั้งค่าKEYBIND", Enum.KeyCode.RightControl, function()
 	Library:ToggleUI()
 end)
+-------------------
