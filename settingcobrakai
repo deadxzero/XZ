@@ -1,7 +1,7 @@
 
 local VLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/vep1032/VepStuff/main/Rgb%20Ui"))()
 
-MAINTTL = "XZ HUB"
+MAINTTL = "เย็ดหี HUB"
 
 local win = VLib:Window("COBRA KAI", Color3.fromRGB(196, 40, 28))
 
