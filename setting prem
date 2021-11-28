@@ -1,7 +1,7 @@
 local Config = {
     WindowName = "[+]  XZ HUB PREMIUM VERSION                                                                                                     X",
     Color = Color3.fromRGB(300,0,0),
-    Keybind = Enum.KeyCode.RightControl
+    Keybind = Enum.KeyCode.RightShift
 }
 
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/AlexR32/Roblox/main/BracketV3.lua"))()
