@@ -21,10 +21,14 @@ local Label1 = Section1:CreateLabel("[+] Pay Acces New Update For dupe afs")
 local Tab2 = Window:CreateTab("Main")
 local Section2 = Tab2:CreateSection("PREMIUM")
 local Button2 = Section2:CreateButton("Prison Life", function()
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/XTheMasterX/Scripts/Main/PrisonLife'),true))()
+while wait () do
+print("คุณไม่สามารถใช้ฟังชั่นนี้ได้เนื่องจากคุณไม่ได้ซื้อ SCRIPT นี้")
+end
 end)
 local Button2 = Section2:CreateButton("Cobra Kai", function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/deadxzero/XZ/main/cobrakai"))();
+while wait () do
+print("คุณไม่สามารถใช้ฟังชั่นนี้ได้เนื่องจากคุณไม่ได้ซื้อ SCRIPT นี้")
+end
 end)
 local Button2 = Section2:CreateButton("Dupe Ticket AFS", function()
 while wait () do
